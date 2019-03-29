@@ -1,7 +1,8 @@
+
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ruslan Muradov](https://up.htmlacademy.ru/adaptive/16/user/422621).
-* Наставник: `Неизвестно`.
+* Наставник: Knight Rider.
 
 ---
 
